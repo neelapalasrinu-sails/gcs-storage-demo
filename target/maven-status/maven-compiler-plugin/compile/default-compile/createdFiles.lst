@@ -1,0 +1,3 @@
+com\gcp\gcsstoragedemo\controller\DemoController.class
+com\gcp\gcsstoragedemo\GcsStorageDemoApplication.class
+com\gcp\gcsstoragedemo\service\DemoService.class

@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: gcs-storage-demo
+  cloud:
+    gcp:
+      credentials:
+        location: file:C:\code-sails\interview-builder-creds.json
+
+gcp:
+  bucket: interview-builder-dev-bucket
